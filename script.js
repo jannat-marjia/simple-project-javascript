@@ -6,7 +6,7 @@
 let unserOneVaule = prompt("user input data one");
 let userTwoValue =  prompt("user input data two");
 unserOneVaule = parseInt(unserOneVaule);
-unserOneVaule = parseInt(userTwoValue);
+userTwoValue = parseInt(userTwoValue);
 
 const Result = unserOneVaule + userTwoValue;
 const ResultTwo = unserOneVaule - userTwoValue; 
